@@ -17,3 +17,5 @@ Lab 6. Where We Go One, We Go All<!--[](Lab%206/)-->
 
 Final Project<!--[](Final%20Project/)-->
 
+Useful links:
+[README.md instructions](https://guides.github.com/features/mastering-markdown/)
