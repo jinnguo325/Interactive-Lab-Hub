@@ -50,7 +50,7 @@ The signal sender can change the color which reflects their mood and the receive
 _Goals:_ 
 
 There are two goals for each player, depends on their own purpose.
-	- Goal 1: to showcase their own mood to the others, so that they feel being heard and felt
+  - Goal 1: to showcase their own mood to the others, so that they feel being heard and felt
   - Goal 2: to react to the other's mood, so that they can provide comfort/understanding/resonance to the other's mood !
 
 
@@ -58,7 +58,8 @@ The interactive device can be anything *except* a computer, a tablet computer or
 
 \*\***Include a picture of your storyboard here**\*\*
 
-![IMG_5717](https://user-images.githubusercontent.com/89592832/132147837-588c28d0-317b-4fdc-a679-dda49a244844.JPG)
+![IMG_5743](https://user-images.githubusercontent.com/89592832/132149347-dc8c4a5d-f66f-4995-8110-9c2383bfa453.JPG)
+
 
 \*\***Summarize feedback you got here.**\*\*
 
@@ -108,9 +109,9 @@ Follow-up work recording: [Google drive link](https://drive.google.com/file/d/1a
 
 ## Part E. Costume the device
 
-Only now should you start worrying about what the device should look like. Develop a costume so that you can use your phone as this device.
+_Only now should you start worrying about what the device should look like. Develop a costume so that you can use your phone as this device.
 
-Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
+Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?_
 
 \*\***Include sketches of what your device might look like here.**\*\*
 
@@ -125,7 +126,7 @@ The device would need a color selection board, a mute/unmute button and a light 
 Recording of prototyped interaction: [Google Drive link](https://drive.google.com/file/d/1OGTxBszlh5Uili7OczxNBhn5yLUny6nI/view?usp=sharing)
 
 _Story behind the scene:_ 
-I was back at home while doing this project so my mother helped me to demonstrate in the video. She also inspired me to have this idea at the first place as we don't have time to chat all the time but we want to know how the other is doing at different place. 
+I was back at home while doing this project so my mother helped me to demonstrate in the video. She also inspired me to have this idea at the first place as we don't have time to chat all the time but we want to know how the other is doing in another city/timezone. 
 
 I am also inspired by a Play Station game called _Journey_. In this game, the player will be playing all alone in the very wide world setting. Along the way the player can meet another individual player and continue the journey together, but the two cannot communicate via speech or text and cannot see each other's names. The only form of communication between the two is a musical chime. It is amazing how much comfort and pleasure a simple format of non-verbal communication can bring.
 
