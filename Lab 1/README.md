@@ -139,7 +139,7 @@ This describes the second week's work for this lab activity.
 
 ## Prep 
 
-Feedback:
+**Feedback:**
 
 I received three feedbacks from Andrew Scibell, Matthew Ardizzone and Robert Aaron Konigsberg. Their feedback included:
 1. Body language and emotional expression are somewhat involuntary so I wish the color selection had an automated option as well, some way of detecting the user's emotional state without an input. 
@@ -150,7 +150,7 @@ I received three feedbacks from Andrew Scibell, Matthew Ardizzone and Robert Aar
 6. Specify the audio. 
 
 
-Brainstorming:
+**Brainstorming:**
 
 Based on the feedbacks, here are some new ideas I'd like to apply:
 1. Automated color selection: It's a great idea to make color change/selection automated since the time when we need other's support may also be the time we do not want to express ourselves (ie. angry, sad etc.). Several ways for the device to be able to detect user's mood and change color automatically:
@@ -166,7 +166,7 @@ Based on the feedbacks, here are some new ideas I'd like to apply:
 3. There will only be a limited number of audios (less than 10) for user to choose. Audio will not be very specific (not a happy birthday song), but instead short piece of music/sound that vaguely convey a mood/feeling. 
 
 
-Plan:
+**Plan:**
 
 1. Change the device from a lamp to a watch/bracelet/necklace, something that the user can wear for the device to detect body temperature/heartbeat/level of sweat. 
 2. Add a auto-mode switch button. The user can choose either they want the device to automatically change colors on the other side, or to manually change the color by themselves. 
@@ -175,12 +175,14 @@ Plan:
 5. Add audio selection option. 
   
  
-Prototype Design:
+**Prototype Design:**
 
 There will be two players involved: the wearer and the recipient. Each player will wear their own device and send signal to change color/audio for the other player. 
 
+<img width="464" alt="Screen Shot 2021-09-13 at 12 57 29 PM" src="https://user-images.githubusercontent.com/89592832/133125722-4aabff69-a242-4508-ba48-eff2b7b7e33e.png">
+<img width="476" alt="Screen Shot 2021-09-13 at 12 57 40 PM" src="https://user-images.githubusercontent.com/89592832/133125731-4196b31a-987d-44bd-8f6f-5ea8043da5c0.png">
+<img width="677" alt="Screen Shot 2021-09-13 at 12 57 47 PM" src="https://user-images.githubusercontent.com/89592832/133125743-99b605a8-9874-4fcb-8c9b-53cd84ae0fbf.png">
 
-[IDD tinkerbelle device part2.pdf](https://github.com/jinnguo325/Interactive-Lab-Hub/files/7156082/IDD.tinkerbelle.device.part2.pdf)
 
 
 
