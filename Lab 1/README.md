@@ -137,11 +137,52 @@ I am also inspired by a Play Station game called _Journey_. In this game, the pl
 This describes the second week's work for this lab activity.
 
 
-## Prep (to be done before Lab on Wednesday)
+## Prep 
 
-You will be assigned three partners from another group. Go to their github pages, view their videos, and provide them with reactions, suggestions & feedback: explain to them what you saw happening in their video. Guess the scene and the goals of the character. Ask them about anything that wasn’t clear. 
+Feedback:
 
-\*\***Summarize feedback from your partners here.**\*\*
+I received three feedbacks from Andrew Scibell, Matthew Ardizzone and Robert Aaron Konigsberg. Their feedback included:
+1. Body language and emotional expression are somewhat involuntary so I wish the color selection had an automated option as well, some way of detecting the user's emotional state without an input. 
+2. Should be a way for the other person to know if your device is muted. 
+3. Flash the other person's light is like a mood-flashing pager. 
+4. Sometimes we may not want to know who we are talking to.
+5. The non-instrusive communication aspect is good. Will user remember who was the last one to update the color?
+6. Specify the audio. 
+
+
+Brainstorming:
+
+Based on the feedbacks, here are some new ideas I'd like to apply:
+1. Automated color selection: It's a great idea to make color change/selection automated since the time when we need other's support may also be the time we do not want to express ourselves (ie. angry, sad etc.). Several ways for the device to be able to detect user's mood and change color automatically:
+
+  a. Detect body movement. Fast movement = rush = red, moderate movement = occupied = yellow, very slow movement = chill = blue etc. Problem is that the same body movement speed may indicate totally different moods. 
+  
+  b. Detect body conditions including body temperature, heart beat etc. This would require the user to wear the device, like an Apple watch. 
+  
+  c. Detect sound volume around. But similar to the first point, it may be hard to determine what the true mood is solely based on sound volume. 
+  
+2. The small area around the muted button should also be lighted. A bright color means it's unmuted on the other side and a dark color means the other user has muted their device. 
+
+3. There will only be a limited number of audios (less than 10) for user to choose. Audio will not be very specific (not a happy birthday song), but instead short piece of music/sound that vaguely convey a mood/feeling. 
+
+
+Plan:
+
+1. Change the device from a lamp to a watch/bracelet/necklace, something that the user can wear for the device to detect body temperature/heartbeat/level of sweat. 
+2. Add a auto-mode switch button. The user can choose either they want the device to automatically change colors on the other side, or to manually change the color by themselves. 
+3. Set a matrix for color automation. For example, low temperature+high heartbeat+sweat may indicates the wearer is frustrated, so a purple color will show on the other side. Or a high temperature+high heartbeat+no sweat may indicates the wearer is excited, so a orange color will show. 
+4. Add color to the muted button. 
+5. Add audio selection option. 
+  
+ 
+Prototype Design:
+
+There will be two players involved: the wearer and the recipient. Each player will wear their own device and send signal to change color/audio for the other player. 
+
+
+[IDD tinkerbelle device part2.pdf](https://github.com/jinnguo325/Interactive-Lab-Hub/files/7156082/IDD.tinkerbelle.device.part2.pdf)
+
+
 
 ## Make it your own
 
