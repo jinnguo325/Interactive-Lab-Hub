@@ -183,8 +183,8 @@ There will be two players involved: the wearer and the recipient. Each player wi
 <img width="476" alt="Screen Shot 2021-09-13 at 12 57 40 PM" src="https://user-images.githubusercontent.com/89592832/133125731-4196b31a-987d-44bd-8f6f-5ea8043da5c0.png">
 <img width="677" alt="Screen Shot 2021-09-13 at 12 57 47 PM" src="https://user-images.githubusercontent.com/89592832/133125743-99b605a8-9874-4fcb-8c9b-53cd84ae0fbf.png">
 
-
-
+Video:
+https://drive.google.com/file/d/1iNv8zjdIlch1lxhNV_aa-YTJ_SiG4i6Q/view?usp=sharing
 
 ## Make it your own
 
