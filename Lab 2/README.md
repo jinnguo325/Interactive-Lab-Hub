@@ -188,7 +188,8 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 ## Barebones clock storyline 
 
-The clock is designed to show the intensity of the day. During different period of the day, the clock can indicate how relax/intense is this period by flushing at different frequencies. Between 9am-11am, the clock shows highly frequent flush, encouraging the user to work in faster pace. Between 11am-1pm, the clock flushes more slowly, to indicates a lunch break for the user to relax a little bit during the day. After 1pm, the clock will flush at increasing frequency, and so on. 
+The clock is designed to show the intensity of the day. During different period of the day, the clock can indicate how relax/intense is this period by flashing at different frequencies. Between 9am-11am, the clock shows highly frequent flash, encouraging the user to work in faster pace. Between 11am-1pm, the clock flashes more slowly, to indicates a lunch break for the user to relax a little bit during the day. After 1pm, the clock will flash at increasing frequency, and so on. 
+I also plan to change the background color/image to provide more hint for the users to sense the intensity during the day. 
 
 
 ## Part F. 
