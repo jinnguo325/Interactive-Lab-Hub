@@ -186,6 +186,10 @@ After you edit and work on the scripts for Lab 2, the files should be upload bac
 
 After that, Git will ask you to login to your GitHub account to push the updates online, you will be asked to provide your GitHub user name and password. Remember to use the "Personal Access Tokens" you set up in Part A as the password instead of your account one! Go on your GitHub repo with your laptop, you should be able to see the updated files from your Pi!
 
+## Barebones clock storyline 
+
+The clock is designed to show the intensity of the day. During different period of the day, the clock can indicate how relax/intense is this period by flushing at different frequencies. Between 9am-11am, the clock shows highly frequent flush, encouraging the user to work in faster pace. Between 11am-1pm, the clock flushes more slowly, to indicates a lunch break for the user to relax a little bit during the day. After 1pm, the clock will flush at increasing frequency, and so on. 
+
 
 ## Part F. 
 ## Make a short video of your modified barebones PiClock
