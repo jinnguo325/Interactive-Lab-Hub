@@ -1,0 +1,5 @@
+#copy items to pi:
+cd location:
+scp <filename.format> pi@<IP address>:~/<directory to be saved in pi>:
+
+jinnguo@Jinns-MacBook-Pro desktop % scp forest.jpg pi@192.168.1.11:~/
