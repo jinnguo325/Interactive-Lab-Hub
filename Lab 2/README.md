@@ -186,17 +186,11 @@ After you edit and work on the scripts for Lab 2, the files should be upload bac
 
 After that, Git will ask you to login to your GitHub account to push the updates online, you will be asked to provide your GitHub user name and password. Remember to use the "Personal Access Tokens" you set up in Part A as the password instead of your account one! Go on your GitHub repo with your laptop, you should be able to see the updated files from your Pi!
 
-## Barebones clock storyline 
-
-The clock is designed to show the intensity of the day. During different period of the day, the clock can indicate how relax/intense is this period by flashing at different frequencies. Between 9am-11am, the clock shows highly frequent flash, encouraging the user to work in faster pace. Between 11am-1pm, the clock flashes more slowly, to indicates a lunch break for the user to relax a little bit during the day. After 1pm, the clock will flash at increasing frequency, and so on. 
-I also plan to change the background color/image to provide more hint for the users to sense the intensity during the day. 
-
 
 ## Part F. 
 ## Make a short video of your modified barebones PiClock
 
 \*\*\***Take a video of your PiClock.**\*\*\*
-video: link [https://drive.google.com/file/d/13INWFNbxzoJecRJD9k6r02BIfMZZVJ09/view?usp=sharing]
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
