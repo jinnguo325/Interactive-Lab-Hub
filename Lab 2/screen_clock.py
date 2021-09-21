@@ -60,8 +60,10 @@ backlight = digitalio.DigitalInOut(board.D22)
 backlight.switch_to_output()
 backlight.value = True
 
+#MY WORK BELOW 
 while True:
-    
+    # Draw a black filled box to clear the image.
+ 
     current_time = time.strftime("%H:%M:%S") #to include dates, using time.strftime("%m/%d/%Y %H:%M:%S")
     morning_start = '09:00:00'
     morning_end = '11:00:00'
@@ -69,6 +71,7 @@ while True:
     noon_end = '13:00:00'
     afternoon_start = '13:01:00'
     afternoon_end = '15:00:00'
+    
     if current_time > morning_start and current_time < morning_end:
         draw.rectangle((0, 0, width, height), outline=0, fill=20)
     elif current_time > noon_start and noon_end < morning_end:
@@ -81,7 +84,9 @@ while True:
     #J:display regular time with colored background 
     y = top
     draw.text((x, y), time.strftime("%m/%d/%Y %H:%M:%S"), font=font, fill="#FFFFFF")
-   
+    
+
+
 
     #TODO: Lab 2 part D work should be filled in here. You should be able to look in cli_clock.py and stats.py 
 
