@@ -196,6 +196,7 @@ I also plan to change the background color/image to provide more hint for the us
 ## Make a short video of your modified barebones PiClock
 
 \*\*\***Take a video of your PiClock.**\*\*\*
+video: link [https://drive.google.com/file/d/13INWFNbxzoJecRJD9k6r02BIfMZZVJ09/view?usp=sharing]
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
