@@ -212,7 +212,7 @@ As always, make sure you document contributions and ideas from others explicitly
 
 You are permitted (but not required) to work in groups and share a turn in; you are expected to make equal contribution on any group work you do, and N people's group project should look like N times the work of a single person's lab. What each person did should be explicitly documented. Make sure the page for the group turn in is linked to your Interactive Lab Hub page. 
 
-For Part 2, I collaborated with David Opatrny(djo47) to come up with a Death Clock. We want to use the Death Clock to:
+For Part 2, I collaborated with [David Opatrny(djo47)](https://github.com/djopatrny/Interactive-Lab-Hub/tree/Fall2021/Lab%202) to come up with a Death Clock. We want to use the Death Clock to:
 
 1. Demostrate one person's life in seconds, counting down from their last day of life. 
 2. Present different clock images at important life milestones (birthday, graduation, marriage, divorce, and death).
@@ -221,7 +221,6 @@ For Part 2, I collaborated with David Opatrny(djo47) to come up with a Death Clo
 5. To earn more time, the user can do some good things (ie. help a senior, plant a tree) and then press the button to collect corresponding amount of time rewards. 
 6. If the user does something bad/unhealthy (ie. run through a red light/smoke), the clock will deduct certain amount of time accordingly. 
 
-Video demostration of the Death Clock:
-https://drive.google.com/file/d/1VpiPJEooUGZrHoVtLI0iQ3mJQXPpreIJ/view?usp=sharing
+[Video demostration of the Death Clock](https://drive.google.com/file/d/1VpiPJEooUGZrHoVtLI0iQ3mJQXPpreIJ/view?usp=sharing)
 
 
