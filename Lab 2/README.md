@@ -221,4 +221,7 @@ For Part 2, I collaborated with David Opatrny(djo47) to come up with a Death Clo
 5. To earn more time, the user can do some good things (ie. help a senior, plant a tree) and then press the button to collect corresponding amount of time rewards. 
 6. If the user does something bad/unhealthy (ie. run through a red light/smoke), the clock will deduct certain amount of time accordingly. 
 
+Video demostration of the Death Clock:
+https://drive.google.com/file/d/1VpiPJEooUGZrHoVtLI0iQ3mJQXPpreIJ/view?usp=sharing
+
 
