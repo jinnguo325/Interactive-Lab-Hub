@@ -105,6 +105,8 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 
 \*\***Post your storyboard and diagram here.**\*\*
 
+I collaborated with [David Opatrny(djo47)](https://github.com/djopatrny/Interactive-Lab-Hub/tree/Fall2021/Lab%203)  on this lab 
+
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
 \*\***Please describe and document your process.**\*\*
@@ -116,6 +118,7 @@ Write out what you imagine the dialogue to be. Use cards, post-its, or whatever 
 
 #### 0. Manual selection
 Pi: What are you?
+
 [Manual selection using the joystick]
 
 #### 1. Pi talking to a human
@@ -127,11 +130,14 @@ Pi: Good day, how are you feeling today?
 
 #### 2. Pi talking to a cat
 Pi: Meow meow?
+
 Cat: [speaking cat language]
+
 Pi: Meow. The cat said (some line).
 
 #### 3. Pi talking to a pi
 Pi: pipipipipipi
+
 Another Pi: pipipipipipi
 
 ### Acting out the dialogue
