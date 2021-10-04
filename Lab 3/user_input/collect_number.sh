@@ -4,7 +4,7 @@
 #!/bin/bash
 say() { local IFS=+;/usr/bin/mplayer -ao alsa -really-quiet -noconsolecontrols "http://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=$*&tl=en"; }
 #say $*
-say " Hello - what is your favorite number of birds to see on a Sunday?"
+say "How is your day going on a scale of one to ten?"
 
 
 arecord -D hw:2,0 -f cd -c1 -r 48000 -d 5 -t wav recorded_mono.wav
