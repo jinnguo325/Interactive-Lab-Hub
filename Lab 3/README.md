@@ -56,6 +56,8 @@ You can also play audio files directly with `aplay filename`. Try typing `aplay 
 \*\***Write your own shell file to use your favorite of these TTS engines to have your Pi greet you by name.**\*\*
 (This shell file should be saved to your own repo for this lab.)
 
+**I added a [greeting_names.sh] file so that the Pi will say "Good morning Jinn. Oh in case I don't see you, good afternoon, good evening and good night!"
+
 Bonus: If this topic is very exciting to you, you can try out this new TTS system we recently learned about: https://github.com/rhasspy/larynx
 
 ### Speech to Text
@@ -106,6 +108,30 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
 \*\***Please describe and document your process.**\*\*
+**We developed 3 senarios:
+1. Pi talking to a human
+2. Pi talking to a cat
+3. Pi talking to another Pi
+
+## 0. Manual selection
+Pi: What are you?
+[Manual selection using the joystick]
+
+## 1. Pi talking to a human
+
+Pi: Good day, how are you feeling today?
+[manual selection using joystick]
+ * UP: I am glad to hear that. (some line)
+ * DOWN: I am with you. (some line)
+
+## 2. Pi talking to a cat
+Pi: Meow meow?
+Cat: [speaking cat language]
+Pi: Meow. The cat said (some line).
+
+## 3. Pi talking to a pi
+Pi: pipipipipipi
+Another Pi: pipipipipipi
 
 ### Acting out the dialogue
 
