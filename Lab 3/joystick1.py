@@ -1,7 +1,10 @@
 import qwiic_joystick
 import time
 import sys
+<<<<<<< HEAD
 import ##
+=======
+>>>>>>> b4d5bd532a6b6addaa039b5f2908a4abdbe1af37
 
 def runExample():
 
@@ -18,6 +21,7 @@ def runExample():
 	print("Initialized. Firmware Version: %s" % myJoystick.get_version())
 
 	while True:
+<<<<<<< HEAD
         x = myJoystick.horizontal
         y = myJoystick.vertical
         
@@ -32,5 +36,20 @@ def runExample():
         elif y <450:
             #select action D
 
+=======
+		print("X: %d, Y: %d, Button: %d" % ( \
+					myJoystick.horizontal(), \
+					myJoystick.vertical(), \
+					myJoystick.button()))
+
+		time.sleep(.5)
+		
+if __name__ == '__main__':
+	try:
+		runExample()
+	except (KeyboardInterrupt, SystemExit) as exErr:
+		print("\nEnding Example 1")
+		sys.exit(0)
+>>>>>>> b4d5bd532a6b6addaa039b5f2908a4abdbe1af37
 
         
