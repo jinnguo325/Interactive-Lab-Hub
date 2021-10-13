@@ -158,8 +158,14 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 ## Prep for Part 2
 
 1. What are concrete things that could use improvement in the design of your device? For example: wording, timing, anticipation of misunderstandings...
+
+The speech-to-text and text-to-speech functions were well established, so we plan to continuing using it. 
 2. What are other modes of interaction _beyond speech_ that you might also use to clarify how to interact?
+
+We plan to incorporate joystick or encoder for users to select different mode/language for trying out different output. 
 3. Make a new storyboard, diagram and/or script based on these reflections.
+
+
 
 ## Prototype your system
 
@@ -169,6 +175,10 @@ The system should:
 * require participants to speak to it. 
 
 *Document how the system works*
+
+We started by testing out the audio interaction. We imported a library for the Pi to search for response once it received an audio input. Here's a video illustration of the audio interaction:
+
+https://drive.google.com/file/d/1XxRuHvjW4OU7Z8dIFA4M0YZ18fXV6KCv/view?usp=sharing
 
 *Include videos or screencaptures of both the system and the controller.*
 
