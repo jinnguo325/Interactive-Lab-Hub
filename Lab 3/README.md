@@ -160,11 +160,27 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 1. What are concrete things that could use improvement in the design of your device? For example: wording, timing, anticipation of misunderstandings...
 
 The speech-to-text and text-to-speech functions were well established, so we plan to continuing using it. 
+
 2. What are other modes of interaction _beyond speech_ that you might also use to clarify how to interact?
 
 We plan to incorporate joystick or encoder for users to select different mode/language for trying out different output. 
+
 3. Make a new storyboard, diagram and/or script based on these reflections.
 
+## Peer Feedback
+We got several valuable feedbacks from our peers:
+
+>"I would love to see the dialogue between two Pi's acted out. Maybe you could display emojis on the Pi to show the mood of the Pi, also indicating there was some conversation going on." - Yehao Zhang
+
+We will add some emojis and images to display as the Pi talking in different "language".
+
+>"In the video I think it might help the user understand the interaction better if you also 'translated' the cats response so that the pi says something like "the cat said xyz." - Rebecca Lassman 
+
+The plan is for the Pi to search for random response and output the audio as a translation. The translation may not be accurate (if at all), until one day human technology is advanced enough to actually interpret animal language. 
+
+>"I would suggest designing interactions that are more complicated than greetings." - Hongyu Shen
+
+When two Pi-s are talking with each other, we plan to let each Pi to search in the library to find the optimal response and let the conversatin flow. 
 
 
 ## Prototype your system
